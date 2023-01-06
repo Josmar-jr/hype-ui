@@ -1,0 +1,4 @@
+{
+  "extends": "@hype-ui/ts-config/react.json",
+  "include": ["src"]
+}

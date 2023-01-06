@@ -1,0 +1,3 @@
+{
+  "extends": "@hype-ui/eslint-config"
+}
