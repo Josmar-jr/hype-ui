@@ -1,4 +1,6 @@
 import { keyframes } from '@stitches/react'
+import { rgba } from 'polished'
+import { colors } from '@hype-ui/tokens'
 import { styled } from '../../styles'
 
 const spin = keyframes({
@@ -36,6 +38,13 @@ export const ButtonSt = styled('button', {
   '.animate-spin': {
     animation: `${spin} 1s linear infinite`,
   },
+
+  '&:focus': {
+    boxShadow: `0 0 0 3px ${rgba(colors.indigo400, 0.7)}`,
+    border: '1px solid $white',
+  },
+
+  border: '1px solid transparent',
 
   variants: {
     variant: {
