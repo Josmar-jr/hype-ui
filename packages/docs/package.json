@@ -28,6 +28,7 @@
     "@hype-ui/eslint-config": "*",
     "@hype-ui/react": "*",
     "@hype-ui/tokens": "*",
+    "phosphor-react": "^1.4.1",
     "polished": "^4.2.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"

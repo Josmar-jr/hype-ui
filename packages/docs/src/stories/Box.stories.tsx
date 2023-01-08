@@ -3,7 +3,7 @@ import type { Meta, StoryObj } from '@storybook/react'
 import { Box, BoxProps, Text } from '@hype-ui/react'
 
 export default {
-  title: 'Components/Box',
+  title: 'Surfaces/Box',
   component: Box,
   args: {
     children: (

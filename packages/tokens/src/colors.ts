@@ -7,6 +7,7 @@ export const colors = {
   indigo700: '#4338ca',
 
   danger: '#F03D3D',
+  'danger-dark': '#b91c1c',
   success: '#0BB07B',
   warning: '#FFCE52',
 
