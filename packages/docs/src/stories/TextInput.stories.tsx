@@ -6,6 +6,14 @@ import { User } from 'phosphor-react'
 export default {
   title: 'Form/Text Input',
   component: TextInput,
+  args: {
+    placeholder: '',
+  },
+  argTypes: {
+    placeholder: {
+      type: 'string',
+    },
+  },
   decorators: [
     (Story) => {
       return (

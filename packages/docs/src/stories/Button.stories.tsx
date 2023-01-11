@@ -24,6 +24,9 @@ export default {
     disabled: {
       type: 'boolean',
     },
+    onClick: {
+      action: 'click',
+    },
   },
 } as Meta<ButtonProps>
 
