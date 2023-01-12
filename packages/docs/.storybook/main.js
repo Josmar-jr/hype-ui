@@ -19,7 +19,7 @@ module.exports = {
   },
   viteFinal: (config, { configType }) => {
     if (configType === 'PRODUCTION') {
-      config.base = '/hype-design-system/'
+      config.base = '/hype-ui/'
     }
 
     return config
