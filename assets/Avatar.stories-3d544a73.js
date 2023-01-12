@@ -1,0 +1,2 @@
+import{A as r}from"./index-ced84d2e.js";import"./index-42521bac.js";import"./es.object.get-own-property-descriptor-64192e07.js";import"./index-4bd83974.js";import"./jsx-runtime-c2142c84.js";const m={title:"Data Display/Avatar",component:r,args:{src:"https://github.com/josmar-jr.png",alt:"Josmar Junior"}},p={},c={args:{src:void 0}},n=["Primary","WithFallback"];export{p as Primary,c as WithFallback,n as __namedExportsOrder,m as default};
+//# sourceMappingURL=Avatar.stories-3d544a73.js.map
